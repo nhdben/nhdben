@@ -7,8 +7,6 @@ context.
 My work asks what numbers mean inside human systems — organizations,
 institutions, communities — where the data is never the whole story.
 
-I built Elhouda Lab as the space where that combination becomes a service.
-This is the workbench,  where the thinking happens before it becomes a deliverable.
 
 ---
 
