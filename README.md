@@ -14,9 +14,9 @@ institutions, communities — where the data is never the whole story.
 
 | Project | Tools | Focus |
 |---|---|---|
-| [Nobel Prize Gender Analysis]([#](https://github.com/nhdben/Nobel-prize-gender-analysis)) | Python, pandas, scipy | Recognition gaps across disciplines and decades |
+| [Nobel Prize Gender Analysis](https://github.com/nhdben/Nobel-prize-gender-analysis) | Python, pandas, scipy | Recognition gaps across disciplines and decades |
 | [Event Management Analytics](#) | PostgreSQL | Operational and revenue patterns |
-| [Screen Time & Wellness]([#](https://github.com/nhdben/Screen-time-mental-wellness)) | Power BI, DAX | Behavioural patterns and wellbeing indicators |
+| [Screen Time & Wellness](https://github.com/nhdben/Screen-time-mental-wellness) | Power BI, DAX | Behavioural patterns and wellbeing indicators |
 
 ---
 
