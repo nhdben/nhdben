@@ -15,7 +15,7 @@ institutions, communities — where the data is never the whole story, but shapi
 | [Gulf Cities Cultural Event Analytics](https://github.com/nhdben/gulf-cities-cultural-analytics/) | PostgreSQL, Python, pandas | SQL querying, EDA, operational and revenue pattern analysis | ✅ Complete |
 | [Screen Time & Wellness](https://github.com/nhdben/Screen-time-mental-wellness) | Power BI, DAX | Correlation analysis, KPI dashboarding, behavioural insights | ✅ Complete |
 | [WQU Applied Data Science Lab](https://github.com/nhdben) | Python, SQL | 8 End-to-end data science projects across scientific computing, ML, and deployment | ✅ Complete |
-| [Global Civil Aviation Disruption Analysis](https://github.com/nhdben/aviation-disruption-2026) | Python, pandas, scikit-learn, Power BI | ML classification, disruption modeling, impact prediction | 🔄 In Progress |
+| [Global Civil Aviation Disruption Analysis](https://github.com/nhdben/aviation-disruption-2026) | Python, pandas, scikit-learn, Power BI | ML classification, disruption modeling, impact prediction | ✅ Complete |
 | [Hotel Losses by Chain — Iran-US War]| Python, pandas, Power BI | EDA, regression analysis, revenue impact visualization | 🔄 In Progress |
 | ETL Pipeline | Python, pandas, SQLAlchemy, PostgreSQL | Data extraction, transformation, loading for retail data | 🔄 In Progress |
 | Screen Time Statistical Modeling | R, ggplot2 | Multiple regression, mediation analysis, clustering | 🔄 In Progress |
