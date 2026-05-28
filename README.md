@@ -23,6 +23,8 @@ institutions, communities — where the data is never the whole story, but shapi
 
 ## Technical Stack
 
+## Technical Stack
+
 **Analysis & Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -37,11 +39,15 @@ institutions, communities — where the data is never the whole story, but shapi
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-3776AB?style=flat&logo=python&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=flat&logo=python&logoColor=white)
+![CAMeL Tools](https://img.shields.io/badge/CAMeL%20Tools-006400?style=flat&logo=python&logoColor=white)
 
 **Visualization & BI**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=googledatastudio&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=flat&logo=r&logoColor=white)
 
 **Databases**
@@ -58,12 +64,26 @@ institutions, communities — where the data is never the whole story, but shapi
 ![Arena](https://img.shields.io/badge/Arena-FF6B6B?style=flat&logoColor=white)
 ![Weka](https://img.shields.io/badge/Weka-4C9BE8?style=flat&logoColor=white)
 
----
 
+---
 ##  Languages
 ![Arabic](https://img.shields.io/badge/Arabic-Native-006400?style=flat)
 ![English](https://img.shields.io/badge/English-Professional-0047AB?style=flat)
 ![French](https://img.shields.io/badge/French-Fluent-002395?style=flat)
 ![Spanish](https://img.shields.io/badge/Spanish-Beginner-C60B1E?style=flat)
 ---
+
+## Open To
+
+- Freelance data analytics and consulting projects
+- Research collaborations in behavioral, cultural, or organizational data
+- Clients in GCC, MENA, and international markets
+- Complex problems where the data and the human context both matter
+- PhD program conversations
+
+---
+
+*Available for project work · lab@elhoudalab.com*
+
+
 
