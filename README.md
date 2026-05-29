@@ -83,7 +83,7 @@ institutions, communities — where the data is never the whole story, but shapi
 
 ---
 
-*Available for project work · lab@elhoudalab.com*
+*Available for project work · clarity@elhoudalab.com*
 
 
 
