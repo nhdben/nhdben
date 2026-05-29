@@ -3,8 +3,8 @@
 I'm Nour elHouda, a Data Analyst and Decision Scientist with a background in actuarial mathematics, focused on the intersection of quantitative methods and cultural
 context.
 
-My work asks what numbers mean inside human systems — organizations,
-institutions, communities — where the data is never the whole story, but shaping it is where clarity begins.
+My work asks what numbers mean inside human systems ( organizations,
+institutions, communities ) where the data is never the whole story, but shaping it is where clarity begins.
 
 ---
 
